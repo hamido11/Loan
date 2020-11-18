@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">حاسبني</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instructions">  "تعليمات استخدام التطبيق:\n\n "
+
+
+        "1-اذا تريد اضافة عنصر جديد الى القائمة اضغط على علامة الموجب الموجودة اسفل الشاشة \n"
+        "2-اذا اردت حذف عنصر ما من القائمة المس على بطاقة العنصر واسحب لليمين او لليسار \n"
+        "3-اذا تريد تعديل عنصر من القائمه المس على العنصر ثم عدل واحفظ البيانات \n"
+        "هذا التطبيق من تطوير المهندس حميد القيري \n"
+        "اذا لديك ملاحظات حول التطبيق او لطلب تطبيقات اخرى يرجى مراسلتنا على الايميل التالي\n\n\n "
+                                                                      "hamidalgiri@gmail.com"
+
+    </string>
+</resources>

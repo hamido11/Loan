@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="3dp"
+    android:background="#fff"
+    tools:context="com.example.aboahmad.loan.AboutFragment">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="200dp"
+        android:text="للاستفسار او لطلب تطبيقات اخرى يرجى مراسلتنا على الايميل التالي :hamidalgiri@gmail.com"
+        android:textAlignment="textStart"
+        android:textColor="#3fb596"
+        android:textSize="24sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:text="هذا التطبيق يستخدم قاعدة بيانات الجوال المحلية sql lite"
+        android:textAlignment="textStart"
+        android:textColor="#000"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="150dp"
+        android:text="من اعداد وتطوير المهندس حميد القيري"
+        android:textAlignment="textStart"
+        android:textColor="#b5a53f"
+        android:textSize="25sp" />
+
+
+</RelativeLayout>
